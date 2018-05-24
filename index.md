@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 你怎么才来呢？
 
 You can use the [editor on GitHub](https://github.com/miznalens/NO.1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
